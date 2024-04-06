@@ -9,6 +9,6 @@ function condense (arr){
     arr.pop();
     condense(arr);
 }
-condense([2,10,3]);
-//condenseArrayToNumber([5,0,4,1,2]);
-//condenseArrayToNumber([1]);
+//condense([2,10,3]);
+//condense([5,0,4,1,2]);
+//condense([1]);
